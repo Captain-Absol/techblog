@@ -13,6 +13,7 @@ ul {
 
 h1 {
     text-align: center;
+    
     color: var(--dkblue);
 }
 
@@ -26,6 +27,7 @@ body {
     padding: 10px;
     font-size: 60px;
     margin: 5px;
+    font-family: "Bebas Neue";
 }
 
 .primary-nav__list {
