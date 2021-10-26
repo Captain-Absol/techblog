@@ -11,9 +11,10 @@ ul {
     list-style: none;
 }
 
-img {
+h1 {
     float: left;
     clear: none;
+    color
 }
 
 body {
@@ -21,12 +22,11 @@ body {
 }
 
 .primary-nav {
-    background-color: #89CFF0;
-    color: white;
+    background-color: white;
+    color: #89CFF0;
     padding: 10px;
     font-size: 60px;
     margin: 5px;
-    font-family: 'Bebas Neue';
 }
 
 .primary-nav__list {
