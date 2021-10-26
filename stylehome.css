@@ -33,3 +33,15 @@ body {
     display: flex;
     justify-content: space-around;
     list-style-type: none;
+}
+.primary-nav__link {
+    padding: 25px;
+    transition: all 0.5s ease;
+    text-decoration: none;
+}
+
+.primary-nav__link:hover {
+    background-color: white;
+    color: #89CFF0;
+    text-shadow: 20px 20px white;
+}
