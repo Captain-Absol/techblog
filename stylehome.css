@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+:root {
+    --dkblue: #1D3557;
+    --red: #E63946;
+    -cream: #FFFDD0;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    float: left;
+    clear: none;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.primary-nav {
+    background-color: #89CFF0;
+    color: white;
+    padding: 10px;
+    font-size: 60px;
+    margin: 5px;
+    font-family: 'Bebas Neue';
+}
+
+.primary-nav__list {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
