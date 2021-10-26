@@ -22,7 +22,7 @@ body {
 }
 
 .primary-nav {
-    background-color: white;
+    background-color: var(--dkblue);
     color: #89CFF0;
     padding: 10px;
     font-size: 60px;
@@ -43,5 +43,5 @@ body {
 .primary-nav__link:hover {
     background-color: white;
     color: #89CFF0;
-    text-shadow: 20px 20px white;
+    text-shadow: 20px 20px var(--dkblue);
 }
