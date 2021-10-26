@@ -43,5 +43,5 @@ body {
 
 .primary-nav__link:hover {
     color: white;
-    text-shadow: 20px 20px var(--cream);
+    text-shadow: 20px 20px #1D3557;
 }
