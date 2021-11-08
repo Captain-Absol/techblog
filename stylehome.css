@@ -13,6 +13,7 @@ ul {
 
 h1 {
     float:left;
+    clear: none;
     color: white;
     font-size:100px;
 }
