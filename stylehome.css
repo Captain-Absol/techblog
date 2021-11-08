@@ -12,7 +12,9 @@ ul {
 }
 
 h1 {
-    text-align: center;
+    float:left;
+    color: white;
+    font-size:100px;
     
     color: var(--dkblue);
 }
