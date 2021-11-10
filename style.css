@@ -11,7 +11,7 @@ ul {
     list-style: none;
 }
 
-h1, pre {
+pre {
     float:left;
     clear: none;
     color: white;
