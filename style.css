@@ -25,7 +25,7 @@ body {
 
 .primary-nav {
     background-color: var(--dkblue);
-    color: babyblue;
+    color: #89CFF0;
     padding: 10px;
     font-size: 45px;
     margin: 5px;
@@ -44,6 +44,5 @@ body {
 }
 
 .primary-nav__link:hover {
-    color: white;
-    text-shadow: 20px 20px #1D3557;
+    text-shadow: 20px 20px white;
 }
